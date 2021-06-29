@@ -34,3 +34,6 @@ One of the limitations is that the latest end date took place in 2017 and it is 
 What are some other possible tables and/or graphs that we could create?
 If you were interested in comparing percentages successful, failed, or canceled campaigns by subcategory TV in the United States, you could create a pie graph to visualize these results, a bar chart would have the similar effect.
 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/86024512/123858601-b4fb0600-d8f1-11eb-9939-7f73cb701ebe.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/86024512/123858618-b9bfba00-d8f1-11eb-82fc-a77e114329c3.png)
+
